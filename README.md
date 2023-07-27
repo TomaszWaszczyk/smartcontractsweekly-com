@@ -1,7 +1,3 @@
-![thirdave.network Logo Header](https://res.cloudinary.com/narative/image/upload/v1554161802/home-meta.jpg)
-
-<br />
-
 # Platform Economy Website
 
 #### Running the code locally
