@@ -2,14 +2,7 @@
 
 <br />
 
-# thirdwave.network
-
-thirdave.network builds brands, websites and products for growth-minded companies.. <br />
-We’re a team with senior startup experience here to help your business take the next step.
-
-#### Technology
-
-thirdwave.network is powered by [Gatsby](gatsbyjs.org) that pulls data from [Contentful](https://www.contentful.com) and is hosted on [Netlify's](https://netlify.com). Apart from that, we aim to keep things as barebones as we can.
+# Platform Economy Website
 
 #### Running the code locally
 
